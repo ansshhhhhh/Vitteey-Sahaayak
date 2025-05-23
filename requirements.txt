@@ -1,0 +1,7 @@
+langchain-community
+langchain-tavily
+wikipedia
+yfinance
+langchain-groq
+langgraph
+streamlit
